@@ -85,9 +85,10 @@
       "api": "https://api.apibdzy.com/api.php/provide/vod",
       "name": "百度资源"
     },
-    "xiaomaomi": {
+    "xiaomaomi2": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
     }
   }
 }
+
